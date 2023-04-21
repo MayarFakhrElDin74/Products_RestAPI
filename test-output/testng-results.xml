@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-22T01:19:42 EET" name="Default suite" finished-at="2023-04-22T01:19:50 EET" duration-ms="7918">
+    <groups>
+    </groups>
+    <test started-at="2023-04-22T01:19:42 EET" name="Default test" finished-at="2023-04-22T01:19:50 EET" duration-ms="7918">
+      <class name="tests.TC_Products">
+        <test-method signature="getAllProducts()[pri:1, instance:tests.TC_Products@13fd2ccd]" started-at="2023-04-22T01:19:42 EET" name="getAllProducts" finished-at="2023-04-22T01:19:46 EET" duration-ms="3541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProducts -->
+        <test-method signature="getSingleProduct()[pri:2, instance:tests.TC_Products@13fd2ccd]" started-at="2023-04-22T01:19:46 EET" name="getSingleProduct" finished-at="2023-04-22T01:19:47 EET" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleProduct -->
+        <test-method signature="searchProducts()[pri:3, instance:tests.TC_Products@13fd2ccd]" started-at="2023-04-22T01:19:47 EET" name="searchProducts" finished-at="2023-04-22T01:19:47 EET" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProducts -->
+        <test-method signature="addProduct()[pri:4, instance:tests.TC_Products@13fd2ccd]" started-at="2023-04-22T01:19:47 EET" name="addProduct" finished-at="2023-04-22T01:19:48 EET" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method signature="updateProduct()[pri:5, instance:tests.TC_Products@13fd2ccd]" started-at="2023-04-22T01:19:48 EET" name="updateProduct" finished-at="2023-04-22T01:19:50 EET" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProduct -->
+        <test-method signature="deleteProduct()[pri:6, instance:tests.TC_Products@13fd2ccd]" started-at="2023-04-22T01:19:50 EET" name="deleteProduct" finished-at="2023-04-22T01:19:50 EET" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProduct -->
+      </class> <!-- tests.TC_Products -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
